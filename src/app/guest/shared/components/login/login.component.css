@@ -1,0 +1,23 @@
+form {
+  width: 70%;
+  margin: auto;
+  color: black;
+}
+
+.login-box {
+  margin-top: 3rem;
+  height: 25rem;
+  border-radius: 30px;
+  width: 40%;
+  margin: auto;
+  background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+}
+.btn-login {
+  margin-top: 3rem;
+}
+img {
+  border-radius: 50%;
+  width: 95px;
+  margin-left: 42%;
+  margin-top: 1rem;
+}

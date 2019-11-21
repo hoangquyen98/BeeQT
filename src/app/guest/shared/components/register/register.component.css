@@ -1,0 +1,24 @@
+form {
+    width: 70%;
+    margin: auto;
+    color: black;
+}
+
+.register-box {
+  margin-top: 3rem;
+  border-radius: 30px;
+  height: 36rem;
+  width: 45%;
+  margin: auto;
+  background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+}
+.btn-register {
+  margin-top: 3rem;
+}
+img {
+  border-radius: 50%;
+  width: 95px;
+  margin-left: 42%;
+  margin-top: 1rem;
+}
+
